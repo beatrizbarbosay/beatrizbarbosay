@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="190" viewBox="0 0 1120 190" role="img" aria-labelledby="title desc">
+  <title id="title">Hey, I'm Bea</title>
+  <desc id="desc">A minimal cyber-inspired banner in purple and cyan.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#121124"/><stop offset=".55" stop-color="#15142d"/><stop offset="1" stop-color="#0b1d2a"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#c084fc"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M 28 0 L 0 0 0 28" fill="none" stroke="#7e7aa7" stroke-opacity=".11" stroke-width="1"/></pattern>
+    <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#131227" stop-opacity="0"/><stop offset="1" stop-color="#0b1d2a" stop-opacity=".6"/></linearGradient>
+  </defs>
+  <rect width="1120" height="190" rx="16" fill="url(#bg)"/>
+  <rect width="1120" height="190" rx="16" fill="url(#grid)"/>
+  <rect width="1120" height="190" rx="16" fill="url(#fade)"/>
+  <rect x="0" y="0" width="5" height="190" fill="url(#accent)"/>
+  <text x="47" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#5eead4" letter-spacing="1.5">&gt; hello_world</text>
+  <text x="45" y="112" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="47" font-weight="700" fill="#f2edff">hey, i'm Bea<tspan fill="#c084fc">_</tspan></text>
+  <text x="47" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#a8b9cc">software · systems · curiosity</text>
+  <g transform="translate(960 94)" fill="none" stroke="url(#accent)" stroke-width="2.5" opacity=".85">
+    <path d="M-61 -22 l-23 22 23 22 M61 -22 l23 22 -23 22"/>
+    <path d="M16 -37 L-16 37" opacity=".8"/>
+    <circle cx="0" cy="0" r="70" stroke-opacity=".15" stroke-dasharray="4 8"/>
+  </g>
+  <g fill="#5eead4" opacity=".6"><circle cx="1063" cy="32" r="3"/><circle cx="1080" cy="32" r="3"/></g>
+</svg>
