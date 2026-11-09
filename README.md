@@ -17,7 +17,6 @@ I'm a Brazilian Computer Engineering student currently pursuing a double degree 
 
 I enjoy turning ideas into well-structured programs, understanding the decisions behind an architecture, and learning across disciplines. My background also includes scientific research in nanofabrication, which strengthened my approach to experimentation and problem-solving.
 
-📍 Based in France · Open to software engineering internships across France
 
 ### Technical toolkit
 
