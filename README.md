@@ -5,6 +5,7 @@
 **Computer Engineering · Software Development · Problem Solving**
 
 Double-degree student at University of Campinas (UNICAMP) 🇧🇷 and IMT Atlantique 🇫🇷 
+
 Specializing in Collaborative Software Development 
 
 </div>
