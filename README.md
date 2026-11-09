@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**beatrizbarbosay/beatrizbarbosay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ana Beatriz Barbosa Yoshida
 
-Here are some ideas to get you started:
+**Computer Engineering · Software Development · Problem Solving**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Double-degree student at **University of Campinas (UNICAMP)** 🇧🇷 and **IMT Atlantique** 🇫🇷  
+Specializing in **Collaborative Software Development**
+
+*Curious about how systems work. Intentional about how software is built.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-263238?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-barbosa-yoshida-5aa925218/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-263238?style=flat-square&logo=github&logoColor=white)](https://github.com/beatrizbarbosay?tab=repositories)
+
+</div>
+
+---
+
+### About me
+
+I'm a Brazilian Computer Engineering student currently pursuing a double degree in France, with a focus on **software engineering, algorithms, and collaborative development**.
+
+I enjoy turning ideas into well-structured programs, understanding the decisions behind an architecture, and learning across disciplines. My background also includes scientific research in nanofabrication, which strengthened my approach to experimentation and problem-solving.
+
+📍 Based in France · Open to software engineering internships across France
+
+### Technical toolkit
+
+**Languages** &nbsp; `Python` · `Java` · `C` · `Assembly`  
+**Tools & concepts** &nbsp; `Git` · `GitHub` · `Object-Oriented Programming` · `UML` · `NumPy`  
+**Currently learning** &nbsp; `Haskell` · `Software Design Patterns`
+
+### Selected work
+
+**[Autonomous Robot Simulator · Java](https://github.com/beatrizbarbosay/Java-Project)**  
+An academic object-oriented programming project featuring a 3D robot simulation, specialized sensors, autonomous missions, modular architecture, interfaces, exception handling, and logs.
+
+**[Image Processing Effects · Python](https://github.com/beatrizbarbosay/1s2026-EA979-ProjetoPI-Efeitos/tree/245609)**  
+An academic image-processing project implementing pencil-style edge detection, heat-wave distortion with channel shifts and blur, and a fisheye effect with selective color preservation. Built with Python and NumPy.
+
+**[Software Development Labs · Java](https://github.com/beatrizbarbosay/DCL-TPs)**  
+Exercises from my software development studies at IMT Atlantique, including object-oriented modeling and Java implementations.
+
+### Let's connect
+
+I'm interested in opportunities where I can contribute, collaborate, and continue growing as a software engineer.  
+Find me on **[LinkedIn](https://www.linkedin.com/in/ana-beatriz-barbosa-yoshida-5aa925218/)**.
