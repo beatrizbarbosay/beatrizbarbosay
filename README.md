@@ -7,11 +7,6 @@
 Double-degree student at **University of Campinas (UNICAMP)** 🇧🇷 and **IMT Atlantique** 🇫🇷  
 Specializing in **Collaborative Software Development**
 
-*Curious about how systems work. Intentional about how software is built.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-263238?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-barbosa-yoshida-5aa925218/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-263238?style=flat-square&logo=github&logoColor=white)](https://github.com/beatrizbarbosay?tab=repositories)
-
 </div>
 
 ---
