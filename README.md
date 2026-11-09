@@ -30,16 +30,6 @@ I enjoy turning ideas into well-structured programs, understanding the decisions
 **Tools & concepts** &nbsp; `Git` · `GitHub` · `Object-Oriented Programming` · `UML` · `NumPy`  
 **Currently learning** &nbsp; `Haskell` · `Software Design Patterns`
 
-### Selected work
-
-**[Autonomous Robot Simulator · Java](https://github.com/beatrizbarbosay/Java-Project)**  
-An academic object-oriented programming project featuring a 3D robot simulation, specialized sensors, autonomous missions, modular architecture, interfaces, exception handling, and logs.
-
-**[Image Processing Effects · Python](https://github.com/beatrizbarbosay/1s2026-EA979-ProjetoPI-Efeitos/tree/245609)**  
-An academic image-processing project implementing pencil-style edge detection, heat-wave distortion with channel shifts and blur, and a fisheye effect with selective color preservation. Built with Python and NumPy.
-
-**[Software Development Labs · Java](https://github.com/beatrizbarbosay/DCL-TPs)**  
-Exercises from my software development studies at IMT Atlantique, including object-oriented modeling and Java implementations.
 
 ### Let's connect
 
