@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ana Beatriz Barbosa Yoshida
+
 
 **Computer Engineering · Software Development · Problem Solving**
 
