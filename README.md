@@ -19,7 +19,7 @@ I enjoy turning ideas into well-structured programs, understanding the decisions
 ### Tech stack
 
 **Languages:** `Python` · `Java` · `C` · `Assembly`  
-**Tools & concepts:** `Git` · `GitHub` · `OOP` · `UML` · `NumPy`  
+**Tools and concepts:** `Git` · `GitHub` · `OOP` · `UML` · `NumPy`  
 **Currently exploring:** `Haskell` · `Software Design Patterns`
 
 ### Let's connect 
